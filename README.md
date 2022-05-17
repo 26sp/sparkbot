@@ -3,7 +3,8 @@ Official source for the bot sparkbot
 
 
 # Setup instructions 
-I didn't design sparkbot to be self hosted. But, if you want to, go for it. Please give me credits\n
+I didn't design sparkbot to be self hosted. But, if you want to, go for it. Please give me credits
+
 [You can invite the original here](https://discord.com/api/oauth2/authorize?client_id=975699960869838869&permissions=8&scope=bot)
 ## Step 1: Get a token
 - Head over to the [Discord developer portal](https://discord.com/developers/applications), create an app and go over to Bot, reset the token then copy that.
@@ -33,5 +34,5 @@ I didn't design sparkbot to be self hosted. But, if you want to, go for it. Plea
 
 
 # Final
-Any suggestions? Email them to me `sparkfire298@gmail.com`\n
+Any suggestions? Email them to me `sparkfire298@gmail.com`,
 Please be respecful when using the bot, nothing is hidden and what you see is what there is
