@@ -1,7 +1,7 @@
 # sparkbot
 Official source for the bot sparkbot
 
-\n
+
 # Setup instructions 
 I didn't design sparkbot to be self hosted. But, if you want to, go for it. Please give me credits\n
 [You can invite the original here](https://discord.com/api/oauth2/authorize?client_id=975699960869838869&permissions=8&scope=bot)
