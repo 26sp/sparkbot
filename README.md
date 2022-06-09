@@ -18,7 +18,8 @@ I didn't design sparkbot to be self hosted. But, if you want to, go for it. Plea
 - That's it! Just run `npm install discord.js` then run `node index.js` and it will start!
 
 # Credits
-- I made this bot entirely from scratch using Discord.js
+- An Idiots Guide for intent setup:
+I had some trouble getting it to read messages, so I saw the first line from An Idiots Guide had the right intents (Fuck intents, you didn't need them 2020)
 
 # Things I might add in the future
 - Fetching commands (to pull stuff from various APIs)
