@@ -3,7 +3,7 @@ const Discord = require("discord.js");
 const bot = new Client({
   intents: [Intents.FLAGS.GUILDS, Intents.FLAGS.GUILD_MESSAGES, Intents.FLAGS.DIRECT_MESSAGES]
 });
-const logch = "978921888719974470"; //Log channel
+const logch = "696969696969"; //Log channel
 const token = "SuperSecretBotTokenHere"; //Token from the Dev Portal
 const version = "1.3";
 const fetch = (...args) =>
@@ -57,8 +57,8 @@ bot.on("guildDelete", () => {
 channel.send(`Removed from a server. I am now in ${bot.guilds.cache.size} servers.`);
 })
 
-const blockedUsers = ['589077560936103936', '916503801811312680'];
-const admins = ['807371004095627284'];
+const blockedUsers = [];
+const admins = [];
 
 bot.on('message', message => {
     	if (blockedUsers.includes(message.author.id)) return;
